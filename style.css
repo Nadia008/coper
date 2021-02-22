@@ -1,0 +1,42 @@
+header {
+    background-color: #F1EEE6;
+}
+
+
+header a {
+text-decoration: none;
+
+color: #AF9D9D;
+
+border: 1px #E4D1D1;
+padding: 5px;
+background: #E4D1D1;
+border-radius: 10px;;
+}
+ h1 {
+text-align:center ;
+color:#C7B8B8;
+text-size:15px ;
+ 
+ }
+
+h2 {
+    color:#C7B8B8;
+;
+}
+
+.contacts {
+    background-color: #C7B8B8;
+
+}
+
+
+.adress {
+    background-color:#BEE0BF;
+
+}
+
+
+p {
+    color: #FFFFFF;
+}
